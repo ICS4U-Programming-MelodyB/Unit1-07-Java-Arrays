@@ -82,9 +82,6 @@ public final class Array {
             final double median = calcMedian(arrayNum);
             final int[] mode = calcMode(arrayNum);
 
-            // Print number of set to user.
-            System.out.println(listOfStrings);
-
             // Display to user.
             System.out.println("The mean is: " + mean);
             System.out.println("The median is: "
